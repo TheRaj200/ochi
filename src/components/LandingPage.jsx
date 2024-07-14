@@ -85,7 +85,7 @@ const LandingPage = () => {
                     >
                       <img
                         className="mr-[1vw] rounded-md relative  top-[0.8vw] md:top-[0.5vw] "
-                        src="./src/assets/images/content-image01.jpg"
+                        src="./images/content-image01.jpg"
                         alt=""
                       />
                     </motion.div>
