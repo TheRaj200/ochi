@@ -34,7 +34,7 @@ const Feature2 = () => {
             <div className="card w-full h-full rounded-xl overflow-hidden">
               <img
                 className="w-full h-full bg-cover"
-                src="./src/assets/images/Frame-3875-663x551.jpg"
+                src="./images/Frame-3875-663x551.jpg"
                 alt=""
               />
             </div>
@@ -63,7 +63,7 @@ const Feature2 = () => {
             <div className="card w-full h-full rounded-xl overflow-hidden">
               <img
                 className="w-full h-full  bg-cover"
-                src="./src/assets/images/PB-Front-4-663x551.png"
+                src="./images/PB-Front-4-663x551.png"
                 alt=""
               />
             </div>

@@ -15,7 +15,7 @@ const About = () => {
           </button>
         </div>
         <div className='w-1/2'>
-          <img className='h-auto sm:h-[70vh] rounded-3xl' src="./src/assets/images/Homepage-Photo-663x469.jpg" alt="Company Photo" />
+          <img className='h-auto sm:h-[70vh] rounded-3xl' src="./images/Homepage-Photo-663x469.jpg" alt="Company Photo" />
         </div>
       </div>
     </div>

@@ -27,7 +27,7 @@ const Feature = () => {
             <div className="card w-full h-full rounded-xl overflow-hidden ">
               <img
                 className=" w-full h-full   bg-cover"
-                src="\src\assets\images\Fyde_Illustration_Crypto_2-663x551.png"
+                src=".\images\Fyde_Illustration_Crypto_2-663x551.png"
                 alt=""
               />
             </div>
@@ -45,7 +45,7 @@ const Feature = () => {
             <div className="card w-full h-full rounded-xl overflow-hidden">
               <img
                 className=" w-full h-full bg-cover"
-                src="\src\assets\images\Vise_front2-663x551.jpg"
+                src=".\images\Vise_front2-663x551.jpg"
                 alt=""
               />
             </div>
